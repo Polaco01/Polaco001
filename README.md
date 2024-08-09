@@ -1,9 +1,9 @@
 # Polaco001
 Trabalho de pensamento computacional.
-**O amanhã é ilusório 
-Porque ainda não existe**
+_**O amanhã é ilusório 
+Porque ainda não existe
 O hoje é real
-É a realidade que você pode interferir"
+É a realidade que você pode interferir
 As oportunidades de mudança 
 Tá no presente
 Não espere o futuro mudar sua vida 
@@ -12,4 +12,4 @@ Do presente
 Parasita hoje 
 Um coitado amanhã 
 Corrida hoje 
-Vitória amanhã
+Vitória amanhã**_
